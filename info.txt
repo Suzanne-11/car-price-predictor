@@ -1,0 +1,10 @@
+Some Information about the Input Features:
+
+1) Year - The year in which the car was purchased
+2) Age - Age of the car in years
+3) Distance Driven - The overall distance travelled by the car in kilometers
+4) Fuel - Type of fuel used by the car (Petrol, Diesel, CNG)
+5) Seller Type - Type of Seller (Individual, Dealer)
+6) Transmission Type - Type of transmission of the car (Manual, Automatic)
+7) Owner - Number of previous owner of the car
+8) Present Price - Current showroom price of the car
